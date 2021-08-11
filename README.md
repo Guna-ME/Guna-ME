@@ -1,16 +1,22 @@
-### Hi there 👋
+[EN]
 
-<!--
-**Guna-ME/Guna-ME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Maduh a software development student, On SATC. 🦊✨
 
-Here are some ideas to get you started:
+```js
+const languages = ["python", "javascript", "PHP"];
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I know some pyhon, but still aiming to become a full stack dev. 
+
+I'm working on a project for WEB, that connects tech companies with possible employees.
+
+
+[PT-BR]
+
+Olá, pode me chamar de Maduh uma estudante do curso de informática SATC. 🦊✨
+
+Devo dizer que minhas preferências são voltadas para parte de Banco e Manipulação de dados,
+além disso tenho interesse na parte de desenvolvimento WEB.
+
+Estou trabalhando em um projeto voltado para área de WEB, que consiste em conectar empresas
+do setor de informatica com vagas de emprego disponíveis e pessoas que consigam suprir as necessidades dessas instituições.
